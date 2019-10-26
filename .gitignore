@@ -1,0 +1,7 @@
+### Code ###
+.vscode/*
+
+### Intellij ###
+.idea
+*.iml
+*.ipr
